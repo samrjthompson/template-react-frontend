@@ -4,6 +4,16 @@ This is a work in progress and may include unnecessary bloat. Delete bloat where
 This repo is designed to make the setup of a frontend quicker. The repo uses [React](https://react.dev/), 
 JavaScript, and [SCSS](https://sass-lang.com/).
 
+# React shortcuts for WebStorm
+## Generate React Function Component
+Create a new JavaScript file and, at the top, type `rsf` and hit enter.
+
+## Generate React Class Component
+Create a new JavaScript file and, at the top, type `rcc` and hit enter.
+
+## Generate React Arrow Function Component
+Create a new JavaScript file and, at the top, type `rsc` and hit enter.
+
 # Setting up your new repo's main branch (two methods)
 The first (and simplest) method involves deleting the `.git` file in the repo's dir and re-initialising and force 
 pushing a fresh main branch with no commit history.
